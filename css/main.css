@@ -263,7 +263,9 @@ textarea {
 }
 #cen {
     text-align: center;
-    font-family: Tahoma, Verdana, sans-serif;
+    font-family: ff-tisa-sans-web-pro, sans-serif;
+    font-style: normal;
+    font-weight: 100;
   }
 
 
